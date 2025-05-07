@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Fahad</h1>
-<h3 align="center">Senior Software Engineer | Full-Stack Developer | Mobile App Specialist</h3>
-<p align="center">🚀 10+ years of experience crafting Web & Mobile Apps with modern technologies.</p>
+<h3 align="center">Full-Stack Developer | Database Administrator</h3>
+<p align="center">🚀 10+ years of experience crafting Web Apps & Database Administration</p>
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-💼 Passionate about building scalable web & mobile applications and always eager to explore the latest trends in tech.
+💼 Passionate about building scalable web applications and always eager to explore the latest trends in tech.
 
 📱 Specializing in end-to-end development from UI/UX to backend architecture & deployment.
 
